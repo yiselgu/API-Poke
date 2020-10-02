@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+width: 100%;
+top: 0;
+}
+
+.headerStyle{
+color: rgb(248, 117, 9);
+}
+
+.tarjeta{
+
+margin-top: 100px;
+}
+
+.datosPersonajes{
+    margin: 5px;
+}
